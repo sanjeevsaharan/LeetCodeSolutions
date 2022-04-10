@@ -34,7 +34,7 @@ public:
      */
     vector<string> decode(string &str) {
         // write your code here
-      size_t start;
+    size_t start;
     size_t end = 0;
     string delim = ":;";
     vector<string>out;
